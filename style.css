@@ -48,6 +48,7 @@ header h1 {
 .slider.active {
   display: block;
 }
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
